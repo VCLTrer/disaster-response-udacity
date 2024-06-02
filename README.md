@@ -96,15 +96,9 @@ The web app visualizes the data and allows users to input new messages for class
    - Click the `PREVIEW` button in your IDE (if applicable) or open your web browser and go to `http://localhost:3001/`
 
 ## Project Motivation
-The project is part of the Udacity Data Scientist Nanodegree Program. It aims to apply data engineering skills to process disaster response data and build a machine learning pipeline to categorize emergency messages. This helps disaster response organizations prioritize and allocate resources effectively during disaster events.
+The project is part of the Udacity Data Scientist Nanodegree Program. 
 
 ## Acknowledgments
 - Udacity for providing the project template and datasets.
 - Figure Eight for providing the disaster response message dataset.
 
-## License
-This project is licensed under the MIT License.
-
----
-
-This README provides a comprehensive overview of the project, including its structure, components, prerequisites, installation instructions, and usage guidelines.
